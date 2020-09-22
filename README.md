@@ -1,6 +1,6 @@
 ### Hello, it's me, Aslak! 👋
 
-[![Active](https://img.shields.io/badge/Langages-JS%20/%20Go%20/%20HTML%20/%20CSS-yellow?style=flat-square)](https://www.github.com/aslakoffi)
+[![Active](https://img.shields.io/badge/Langages-JS%20/%20Go%20/%20HTML%20/%20CSS-purple?style=flat-square)](https://www.github.com/aslakoffi)
 [![Active](https://img.shields.io/badge/Discord-CLICK-red?style=flat-square&logo=discord)](https://discord.gg/E2TBnQq)
 
 ### What to say 🤔?
