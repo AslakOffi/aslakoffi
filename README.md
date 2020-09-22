@@ -7,4 +7,4 @@
 
 Don't hesitate to star my projects!
 
-[![Active](https://github-readme-stats.vercel.app/api?username=aslakoffi&show_icons=true&theme=blue&count_private=true&hide=prs,issues)](https://www.github.com/aslakoffi)
+[![Active](https://github-readme-stats.vercel.app/api?username=aslakoffi&show_icons=true&theme=purple&count_private=true&hide=prs,issues)](https://www.github.com/aslakoffi)
