@@ -3,8 +3,8 @@
 [![Active](https://img.shields.io/badge/Langages-JS%20/%20Go%20/%20HTML%20/%20CSS-purple?style=flat-square)](https://www.github.com/aslakoffi)
 [![Active](https://img.shields.io/badge/Discord-CLICK-purple?style=flat-square&logo=discord)](https://discord.gg/hyhnBeX)
 
-### What to say 🤔?
+### Don't you know what to do ?
 
-star my projets (any good projets 😞😔)
+Don't hesitate to star my projects!
 
-[![Active](https://github-readme-stats.vercel.app/api?username=aslakoffi&show_icons=true&theme=dark&count_private=true&hide=prs,issues)](https://www.github.com/aslakoffi)
+[![Active](https://github-readme-stats.vercel.app/api?username=aslakoffi&show_icons=true&theme=blue&count_private=true&hide=prs,issues)](https://www.github.com/aslakoffi)
