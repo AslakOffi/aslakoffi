@@ -1,4 +1,5 @@
 ### Hello, it's me, Aslak! 👋
+![](https://github.com/aslakoffi/aslakoffi/blob/master/icons/header_.png)
 
 [![Active](https://img.shields.io/badge/Langages-JS%20/%20Go%20/%20HTML%20/%20CSS-cyan?style=flat-square)](https://www.github.com/aslakoffi)
 [![Active](https://img.shields.io/badge/Discord-CLICK-blue?style=flat-square&logo=discord)](https://discord.gg/hyhnBeX)
