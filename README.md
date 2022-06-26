@@ -12,7 +12,7 @@ Don't hesitate to star my projects!
 
 ## These are the technologies I use :
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,aws)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,go,js,ts,html,css,electron,docker,aws,godot,netlify,mysql,raspberrypi,unreal)](https://skillicons.dev)
 
 ## Docker
 
