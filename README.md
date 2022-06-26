@@ -10,6 +10,10 @@ Don't hesitate to star my projects!
 
 [![Active](https://github-readme-stats.vercel.app/api?username=aslakoffi&show_icons=true&theme=dark&count_private=true&hide=prs,issues)](https://www.github.com/aslakoffi)
 
+## These are the technologies I use :
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+
 ## Docker
 
 I'm starting to take an interest in Docker
