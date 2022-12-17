@@ -12,7 +12,7 @@ Don't hesitate to star my projects!
 
 ## These are the technologies I use :
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,go,js,ts,html,css,electron,docker,aws,godot,netlify,mysql,raspberrypi,unreal)](https://github.com/AslakOffi/aslakoffi/blob/master/README.md)
+[![My Skills](https://skillicons.dev/icons?i=c,cs,go,js,ts,html,css,electron,docker,aws,godot,netlify,mysql,raspberrypi,unreal)](https://github.com/AslakOffi/aslakoffi/blob/master/README.md)
 
 ## Docker
 
