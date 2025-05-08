@@ -2,7 +2,7 @@
 
 ## These are the technologies I use :
 
-[![My Skills](https://skillicons.dev/icons?i=java,go,js,ts,html,css,electron,docker,netlify,mysql,postgresql)](https://github.com/AslakOffi/aslakoffi/blob/master/README.md)
+[![My Skills](https://skillicons.dev/icons?i=java,go,php,js,ts,html,css,electron,docker,netlify,mysql,postgresql)](https://github.com/AslakOffi/aslakoffi/blob/master/README.md)
 
 ### Don't you know what to do ?
 
