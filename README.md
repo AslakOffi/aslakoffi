@@ -1,5 +1,3 @@
-Creator of the Rhino Language.
-
 ## Some information about me :
 
 ### These are the technologies I use :
